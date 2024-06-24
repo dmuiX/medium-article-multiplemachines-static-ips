@@ -1,0 +1,1 @@
+# medium-article-multiplemachines-static-ips
